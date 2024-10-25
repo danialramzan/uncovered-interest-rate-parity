@@ -1,0 +1,3 @@
+# .gitignore inlcuded to exclude CSV and Excel files in order to avoid sharing licensed and/or proprietary data I will be working with for this project.
+*.csv
+*.xlsx
